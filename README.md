@@ -1,15 +1,3 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
 
 request_client combine dio with some intercept
 ## Usage
@@ -28,12 +16,7 @@ String messageKey = "msg"; //消息key
 List enableLoginCodes = []; //登陆实效的code集合
 InterceptorRequestBack? requestCall; //请求拦截配置 设置token
 InterceptorBack? loginOutCall; //token失效拦截器回调
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
 
-```dart
-const like = 'sample';
-```
 
 ## Additional information
 
