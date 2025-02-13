@@ -1,7 +1,7 @@
 name: request_client
-description: "A new Flutter project."
+description: "dio request"
 version: 0.0.1
-homepage:
+homepage: https://github.com/wangchunjie00/request_client.git
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
